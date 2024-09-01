@@ -1,0 +1,6 @@
+gradio
+azure-cognitiveservices-speech
+moviepy
+pyspellchecker  # Correct package for spell checking
+stanza
+requests
